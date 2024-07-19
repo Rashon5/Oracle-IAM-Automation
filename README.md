@@ -4,6 +4,9 @@
 ## Description
 This project involves automating the creation and management of users, groups, and policies (IAM) in Oracle Cloud Infrastructure (OCI) using Ansible. The automation process uses Ansible playbooks to create the necessary IAM components, ensuring consistent and efficient management of resources within OCI. The compartments `resourcesNetworking`, `resourcesCompute`, and `resourcesDatabase` must be pre-configured.
 
+# Video Walkthrough: 
+[![Watch the Video](https://img.youtube.com/vi/7yTiAR2RiAE/0.jpg)](https://www.youtube.com/watch?v=7yTiAR2RiAE)
+
 ## Create Compartments with Oracle Cloud CLI
   ```bash 
   # Create resourcesNetworking compartment
